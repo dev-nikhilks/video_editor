@@ -1,7 +1,7 @@
 import 'dart:io';
+import 'package:cached_video_player/cached_video_player.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
 import 'package:flutter_ffmpeg/statistics.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter_ffmpeg/flutter_ffmpeg.dart';

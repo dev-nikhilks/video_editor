@@ -1,6 +1,6 @@
+import 'package:cached_video_player/cached_video_player.dart';
 import 'package:flutter/material.dart';
 import 'package:video_editor/domain/bloc/controller.dart';
-import 'package:video_player/video_player.dart';
 
 class VideoViewer extends StatefulWidget {
   VideoViewer({
